@@ -1,3 +1,3 @@
   method Z_NEWMETHOD.
-write:'hello world123wwww23434222222aaaaaaaaswww'.
+write:'hello world123wwww23434222222aaaaaaaaswwwxfkhberjlhgs'.
   endmethod.
